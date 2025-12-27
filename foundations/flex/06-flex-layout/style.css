@@ -56,13 +56,9 @@ body{
   background-color:#eee;
 }
 
-.right-links{
-  margin: auto 16px;
-}
-
 
 ul{
-  list-style-type: none;
+  list-style: none;
   display: flex;
   gap: 16px;
   margin:0;
